@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:padding="10dp"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <TextView
+        android:id="@+id/tvId_fruit"
+        android:textColor="#E80707"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Id: sadsadasd"/>
+    <TextView
+        android:id="@+id/tvName_fruit"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Name: Duonng"/>
+    <TextView
+        android:id="@+id/tvQuantity_fruit"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Name: Duonng"/>
+    <TextView
+        android:id="@+id/tvPrice_fruit"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Name: Duonng"/>
+    <TextView
+        android:id="@+id/tvStatus_fruit"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Name: Duonng"/>
+    <TextView
+        android:id="@+id/tvImage_fruit"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Name: Duonng"/>
+    <TextView
+        android:id="@+id/tvDescription_fruit"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Name: Duonng"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:text="id_distributor:"
+        android:textColor="#3F51B5"
+        android:layout_height="wrap_content"/>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:orientation="vertical"
+        android:layout_marginLeft="20dp"
+        android:layout_height="wrap_content">
+        <TextView
+            android:id="@+id/tvId_distributo"
+            android:textColor="#E80707"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Id: sadsadasd"/>
+        <TextView
+            android:id="@+id/tvName_distributo"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Name: Duonng"/>
+        <TextView
+            android:id="@+id/tvCreatedAt_distributo"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Name: Duonng"/>
+        <TextView
+            android:id="@+id/tvUpdatedAt_distributo"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Name: Duonng"/>
+    </LinearLayout>
+    <TextView
+        android:id="@+id/tvCreatedAt_fruit"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Name: Duonng"/>
+    <TextView
+        android:id="@+id/tvUpdatedAt_fruit"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Name: Duonng"/>
+</LinearLayout>
